@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aria2cNet", "Aria2cNet\Aria2cNet.csproj", "{2A7470C5-3F1F-48E3-A8AD-22F509208E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7470C5-3F1F-48E3-A8AD-22F509208E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7470C5-3F1F-48E3-A8AD-22F509208E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7470C5-3F1F-48E3-A8AD-22F509208E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7470C5-3F1F-48E3-A8AD-22F509208E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CF823E-74A8-40DB-B52D-B5AB0C7BB0EE}
+	EndGlobalSection
+EndGlobal
